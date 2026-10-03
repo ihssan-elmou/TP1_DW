@@ -1,0 +1,44 @@
+===== 2026-09-30 17:46:14 =====
+Nom : ihssan
+Prénom : elmoudni
+Age : 20
+Téléphone : 0666666
+Email : elmoudni.ihssan@etu.uae.ac.ma
+Filière : GI
+Année : 2ème annee
+Modules : reseaux Av, BD
+Nombre de projets : 2
+--- Projet/Stage 1 ---
+Type : Projet
+Début : 2026-03-02
+Fin : 2027-02-02
+Lieu : RABAT
+Description : SSSSSSSSS
+Centres d'intérêt : SSSS
+Compétences : HHHHHH
+Langues : QQQQQQQ
+Remarques : SDDFGG
+Fichier joint : Aucun
+
+===== 2026-09-30 17:54:19 =====
+Nom : ihssan
+Prénom : elmoudni
+Age : -4
+Téléphone : 0666666
+Email : yasminelbakkach385@gmail.com
+Filière : GI
+Année : 2ème annee
+Modules : Compilation, reseaux Av
+Nombre de projets : 2
+--- Projet/Stage 1 ---
+Type : Projet
+Début : 2026-04-02
+Fin : 2027-05-03
+Lieu : RABAT
+Description : SSSSSSSSS
+Centres d'intérêt : ZZZZZ
+Compétences : ZZZZER
+Langues : SSSS
+Remarques : RRRRR
+Fichier joint : Aucun
+

@@ -1,0 +1,24 @@
+Nom: ihssan | Prénom: elmoudni | Email: elmoudni.ihssan@etu.uae.ac.ma
+Nom: ihssan | Prénom: elmoudni
+Téléphone: 0666666 | Email: elmoudni.ihssan@etu.uae.ac.ma
+Filière: GI | Année: 2
+Modules: Compilation, Reseaux
+Nombre de projets: 3
+Projet: zzzz (zzz) du  au  - hhhhh
+Centres d'intérêt: AAA
+Compétences: SSSS
+Langues: SSSSSS
+Remarques: QQQQQQQQQ
+-------------------------
+Nom: ihssan | Prénom: elmoudni
+Téléphone: 0666666 | Email: elmoudni.ihssan@etu.uae.ac.ma
+Filière: GI | Année: 2
+Modules: Compilation, Reseaux
+Nombre de projets: 1
+Projet: eee (dd) du 2026-04-03 au 2027-05-04 - SSSS
+Projet: DD (VV) du 2026-06-04 au 2026-08-03 - SSSS
+Centres d'intérêt: SPORT
+Compétences: PHP
+Langues: FRANCAIS
+Remarques: SSSSSS
+-------------------------
